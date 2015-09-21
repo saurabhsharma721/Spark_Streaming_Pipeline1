@@ -42,11 +42,10 @@ In total events were processed and persisted in near realtime using 10 seconds d
 
 Following Enhancements are planned
 
-1) Use the new Direct Recieved approach to interact with Kafka 
 
-2) Update Apache Cassandra as repository using Saprk SQL
+1) Update Apache Cassandra as repository using Saprk SQL
 
-3) Read from the repository and answer following quries , like how many events per driver id ? etc
+2) Read from the repository and answer following quries , like how many events per driver id ? etc
 
 
  
