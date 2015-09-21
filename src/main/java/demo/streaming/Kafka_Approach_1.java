@@ -7,6 +7,7 @@ import java.util.Map;
 
 import demo.streaming.config.JavaStreamingContextFactory;
 import demo.streaming.dao.SaveToRepository;
+import demo.streaming.mapper.MessageToTruckEventMapper;
 import demo.streaming.model.TruckEvents;
 
 import org.apache.spark.api.java.JavaRDD;
@@ -31,8 +32,6 @@ public class Kafka_Approach_1 {
 	//Logger for Log4j
 	private static Logger logger = Logger.getLogger(Kafka_Approach_1.class);
 	
-	//Datepattern for Dates coming from Kafka
-	private static String datePattern ="yyyy-mm-dd hh:mm:ss.SSS";
 	
 	// Duration for batches in Spark Streaming
 	private static int seconds =10;
@@ -78,7 +77,7 @@ public class Kafka_Approach_1 {
 					     topicMap);
 		
 		//kafkaEventsTransformer class defined below below
-		JavaDStream<TruckEvents> truckEvents = kafkaStream.map(new kafkaEventsTransformer()); 
+		JavaDStream<TruckEvents> truckEvents = kafkaStream.map(new MessageToTruckEventMapper.kafkaEventsTransformer()); 
 	
 		truckEvents.foreachRDD(new kafkaEventsSavetoRepoistory());
 		//SaveToRepository.saveToRepository(truckEvents.);
@@ -89,33 +88,7 @@ public class Kafka_Approach_1 {
 		jssc.awaitTermination(); 
 	}
 	
-	//Transform input string into TruckEvents objects for further processing
-	public static class kafkaEventsTransformer implements 
-						Function<Tuple2<String, String>, TruckEvents> {
-		
-		private static final long serialVersionUID = 1L;
-
-		@Override
-		public TruckEvents call(Tuple2<String, String> tuple2) throws ParseException {
-			String truckEvents[] =tuple2._2().split("\\|");
-			logger.info("Message Recieved from Kafka: " +tuple2._2());
-			TruckEvents tr = new TruckEvents();
-			if(truckEvents.length>0){
-				logger.info(tuple2._2());
-				logger.info(truckEvents[0]);
-				SimpleDateFormat dt = new SimpleDateFormat(datePattern);
-				tr.setEventTime(dt.parse(truckEvents[0]));
-				tr.setTruckId(truckEvents[1]);
-				tr.setTruckDriverId(truckEvents[2]);
-				tr.setEventDetail(truckEvents[3]);
-				tr.setLatitudeId(Double.parseDouble(truckEvents[4]));
-				tr.setLongitudeId(Double.parseDouble(truckEvents[5]));
-			}
-			logger.info("Message proceesed: " +tr.toString());
-			return tr;
-		}
 	
-	}
 	
 	public static class kafkaEventsSavetoRepoistory implements 
 				Function<JavaRDD<TruckEvents>, Void> {
