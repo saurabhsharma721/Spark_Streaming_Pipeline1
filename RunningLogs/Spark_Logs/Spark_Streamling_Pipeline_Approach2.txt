@@ -1,0 +1,545 @@
+2015-09-20 17:56:36,678                 INFO   [Kafka_Approach_2] Kafka Approach 2 with Duration -10 
+2015-09-20 17:56:52,466                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:56:43.984|4|14|Normal|-73.990962000000081|40.664367999999968 
+2015-09-20 17:56:52,466                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:56:43.984|4|14|Normal|-73.990962000000081|40.664367999999968 
+2015-09-20 17:56:52,466                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:56:43.984 
+2015-09-20 17:56:52,475                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:56:43 PST 2015:4:14:Normal:-73.99096200000008:40.66436799999997 
+2015-09-20 17:56:52,591                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:56:45.001|1|11|Normal|-79.741729000000078|42.130435000000034 
+2015-09-20 17:56:52,591                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:56:45.001|1|11|Normal|-79.741729000000078|42.130435000000034 
+2015-09-20 17:56:52,591                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:56:45.001 
+2015-09-20 17:56:52,592                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:56:45 PST 2015:1:11:Normal:-79.74172900000008:42.130435000000034 
+2015-09-20 17:56:52,593                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:56:46.004|2|12|Normal|-74.026581|41.501068 
+2015-09-20 17:56:52,594                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:56:46.004|2|12|Normal|-74.026581|41.501068 
+2015-09-20 17:56:52,594                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:56:46.004 
+2015-09-20 17:56:52,594                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:56:46 PST 2015:2:12:Normal:-74.026581:41.501068 
+2015-09-20 17:56:52,595                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:56:47.013|3|13|Normal|-74.189262999999997|41.339009999999753 
+2015-09-20 17:56:52,595                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:56:47.013|3|13|Normal|-74.189262999999997|41.339009999999753 
+2015-09-20 17:56:52,595                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:56:47.013 
+2015-09-20 17:56:52,595                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:56:47 PST 2015:3:13:Normal:-74.189263:41.33900999999975 
+2015-09-20 17:56:52,596                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:56:48.019|4|14|Normal|-73.990215000000035|40.663669999999911 
+2015-09-20 17:56:52,596                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:56:48.019|4|14|Normal|-73.990215000000035|40.663669999999911 
+2015-09-20 17:56:52,596                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:56:48.019 
+2015-09-20 17:56:52,597                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:56:48 PST 2015:4:14:Normal:-73.99021500000003:40.66366999999991 
+2015-09-20 17:56:52,598                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:56:49.027|1|11|Normal|-79.741653000000042|42.13045800000009 
+2015-09-20 17:56:52,598                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:56:49.027|1|11|Normal|-79.741653000000042|42.13045800000009 
+2015-09-20 17:56:52,598                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:56:49.027 
+2015-09-20 17:56:52,598                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:56:49 PST 2015:1:11:Normal:-79.74165300000004:42.13045800000009 
+2015-09-20 17:56:52,599                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:56:50.038|2|12|Normal|-74.030852|41.501377 
+2015-09-20 17:56:52,599                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:56:50.038|2|12|Normal|-74.030852|41.501377 
+2015-09-20 17:56:52,599                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:56:50.038 
+2015-09-20 17:56:52,599                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:56:50 PST 2015:2:12:Normal:-74.030852:41.501377 
+2015-09-20 17:57:00,544                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:56:51.059|3|13|Normal|-74.189845999999989|41.339833999999961 
+2015-09-20 17:57:00,544                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:56:51.059|3|13|Normal|-74.189845999999989|41.339833999999961 
+2015-09-20 17:57:00,544                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:56:51.059 
+2015-09-20 17:57:00,545                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:56:51 PST 2015:3:13:Normal:-74.18984599999999:41.33983399999996 
+2015-09-20 17:57:00,553                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:56:52.062|4|14|Normal|-73.988505999999916|40.662078999999949 
+2015-09-20 17:57:00,553                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:56:52.062|4|14|Normal|-73.988505999999916|40.662078999999949 
+2015-09-20 17:57:00,553                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:56:52.062 
+2015-09-20 17:57:00,553                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:56:52 PST 2015:4:14:Normal:-73.98850599999992:40.66207899999995 
+2015-09-20 17:57:00,554                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:56:53.069|1|11|Normal|-79.738769000000048|42.13130799999999 
+2015-09-20 17:57:00,554                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:56:53.069|1|11|Normal|-79.738769000000048|42.13130799999999 
+2015-09-20 17:57:00,554                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:56:53.069 
+2015-09-20 17:57:00,555                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:56:53 PST 2015:1:11:Normal:-79.73876900000005:42.13130799999999 
+2015-09-20 17:57:00,556                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:56:54.079|2|12|Normal|-74.031654|41.501435 
+2015-09-20 17:57:00,556                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:56:54.079|2|12|Normal|-74.031654|41.501435 
+2015-09-20 17:57:00,556                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:56:54.079 
+2015-09-20 17:57:00,557                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:56:54 PST 2015:2:12:Normal:-74.031654:41.501435 
+2015-09-20 17:57:00,559                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:56:55.088|3|13|Normal|-74.190127999999959|41.342054999999917 
+2015-09-20 17:57:00,559                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:56:55.088|3|13|Normal|-74.190127999999959|41.342054999999917 
+2015-09-20 17:57:00,559                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:56:55.088 
+2015-09-20 17:57:00,560                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:56:55 PST 2015:3:13:Normal:-74.19012799999996:41.34205499999992 
+2015-09-20 17:57:00,561                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:56:56.099|4|14|Normal|-73.986490999999887|40.660000000000082 
+2015-09-20 17:57:00,561                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:56:56.099|4|14|Normal|-73.986490999999887|40.660000000000082 
+2015-09-20 17:57:00,561                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:56:56.099 
+2015-09-20 17:57:00,561                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:56:56 PST 2015:4:14:Normal:-73.98649099999989:40.66000000000008 
+2015-09-20 17:57:00,563                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:56:57.122|1|11|Normal|-79.738090000000057|42.13159799999994 
+2015-09-20 17:57:00,563                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:56:57.122|1|11|Normal|-79.738090000000057|42.13159799999994 
+2015-09-20 17:57:00,563                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:56:57.122 
+2015-09-20 17:57:00,563                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:56:57 PST 2015:1:11:Normal:-79.73809000000006:42.13159799999994 
+2015-09-20 17:57:00,564                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:56:58.142|2|12|Normal|-74.032793|41.501516 
+2015-09-20 17:57:00,564                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:56:58.142|2|12|Normal|-74.032793|41.501516 
+2015-09-20 17:57:00,564                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:56:58.142 
+2015-09-20 17:57:00,565                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:56:58 PST 2015:2:12:Normal:-74.032793:41.501516 
+2015-09-20 17:57:00,566                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:56:59.154|3|13|Normal|-74.190250000000106|41.345174999999777 
+2015-09-20 17:57:00,566                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:56:59.154|3|13|Normal|-74.190250000000106|41.345174999999777 
+2015-09-20 17:57:00,566                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:56:59.154 
+2015-09-20 17:57:00,567                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:56:59 PST 2015:3:13:Normal:-74.1902500000001:41.34517499999978 
+2015-09-20 17:57:10,484                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:57:00.171|4|14|Normal|-73.985095|40.658744999999954 
+2015-09-20 17:57:10,484                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:00.171|4|14|Normal|-73.985095|40.658744999999954 
+2015-09-20 17:57:10,485                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:00.171 
+2015-09-20 17:57:10,485                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:57:00 PST 2015:4:14:Normal:-73.985095:40.65874499999995 
+2015-09-20 17:57:10,489                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:57:01.174|1|11|Overspeed|-79.73744899999997|42.132196999999906 
+2015-09-20 17:57:10,489                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:01.174|1|11|Overspeed|-79.73744899999997|42.132196999999906 
+2015-09-20 17:57:10,489                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:01.174 
+2015-09-20 17:57:10,490                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:57:01 PST 2015:1:11:Overspeed:-79.73744899999997:42.132196999999906 
+2015-09-20 17:57:10,492                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:57:02.187|2|12|Normal|-74.033153|41.501545 
+2015-09-20 17:57:10,492                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:02.187|2|12|Normal|-74.033153|41.501545 
+2015-09-20 17:57:10,492                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:02.187 
+2015-09-20 17:57:10,493                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:57:02 PST 2015:2:12:Normal:-74.033153:41.501545 
+2015-09-20 17:57:10,496                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:57:03.206|3|13|Normal|-74.19028000000003|41.345378999999951 
+2015-09-20 17:57:10,496                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:03.206|3|13|Normal|-74.19028000000003|41.345378999999951 
+2015-09-20 17:57:10,496                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:03.206 
+2015-09-20 17:57:10,496                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:57:03 PST 2015:3:13:Normal:-74.19028000000003:41.34537899999995 
+2015-09-20 17:57:10,497                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:57:04.215|4|14|Normal|-73.984308999999939|40.658038999999917 
+2015-09-20 17:57:10,497                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:04.215|4|14|Normal|-73.984308999999939|40.658038999999917 
+2015-09-20 17:57:10,497                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:04.215 
+2015-09-20 17:57:10,500                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:57:04 PST 2015:4:14:Normal:-73.98430899999994:40.65803899999992 
+2015-09-20 17:57:10,501                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:57:05.227|1|11|Normal|-79.736503000000084|42.132585000000063 
+2015-09-20 17:57:10,501                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:05.227|1|11|Normal|-79.736503000000084|42.132585000000063 
+2015-09-20 17:57:10,501                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:05.227 
+2015-09-20 17:57:10,501                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:57:05 PST 2015:1:11:Normal:-79.73650300000008:42.13258500000006 
+2015-09-20 17:57:10,505                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:57:06.245|2|12|Normal|-74.035935|41.501761 
+2015-09-20 17:57:10,505                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:06.245|2|12|Normal|-74.035935|41.501761 
+2015-09-20 17:57:10,505                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:06.245 
+2015-09-20 17:57:10,506                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:57:06 PST 2015:2:12:Normal:-74.035935:41.501761 
+2015-09-20 17:57:10,507                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:57:07.255|3|13|Normal|-74.190432999999985|41.346399999999761 
+2015-09-20 17:57:10,507                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:07.255|3|13|Normal|-74.190432999999985|41.346399999999761 
+2015-09-20 17:57:10,507                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:07.255 
+2015-09-20 17:57:10,507                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:57:07 PST 2015:3:13:Normal:-74.19043299999998:41.34639999999976 
+2015-09-20 17:57:10,510                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:57:08.264|4|14|Normal|-73.983195000000023|40.657277000000022 
+2015-09-20 17:57:10,510                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:08.264|4|14|Normal|-73.983195000000023|40.657277000000022 
+2015-09-20 17:57:10,510                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:08.264 
+2015-09-20 17:57:10,510                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:57:08 PST 2015:4:14:Normal:-73.98319500000002:40.65727700000002 
+2015-09-20 17:57:10,514                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:57:09.273|1|11|Normal|-79.726912999999968|42.137678999999935 
+2015-09-20 17:57:10,514                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:09.273|1|11|Normal|-79.726912999999968|42.137678999999935 
+2015-09-20 17:57:10,514                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:09.273 
+2015-09-20 17:57:10,517                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:57:09 PST 2015:1:11:Normal:-79.72691299999997:42.137678999999935 
+2015-09-20 17:57:20,471                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:57:10.283|2|12|Normal|-74.038678|41.501975 
+2015-09-20 17:57:20,471                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:10.283|2|12|Normal|-74.038678|41.501975 
+2015-09-20 17:57:20,472                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:10.283 
+2015-09-20 17:57:20,472                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:57:10 PST 2015:2:12:Normal:-74.038678:41.501975 
+2015-09-20 17:57:20,482                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:57:11.288|3|13|Normal|-74.190585999999939|41.346879999999913 
+2015-09-20 17:57:20,482                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:11.288|3|13|Normal|-74.190585999999939|41.346879999999913 
+2015-09-20 17:57:20,482                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:11.288 
+2015-09-20 17:57:20,483                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:57:11 PST 2015:3:13:Normal:-74.19058599999994:41.34687999999991 
+2015-09-20 17:57:20,484                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:57:12.304|4|14|Normal|-73.981890999999905|40.656521000000112 
+2015-09-20 17:57:20,484                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:12.304|4|14|Normal|-73.981890999999905|40.656521000000112 
+2015-09-20 17:57:20,484                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:12.304 
+2015-09-20 17:57:20,484                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:57:12 PST 2015:4:14:Normal:-73.9818909999999:40.65652100000011 
+2015-09-20 17:57:20,496                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:57:13.314|1|11|Lane Departure|-79.726141999999982|42.138106000000107 
+2015-09-20 17:57:20,496                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:13.314|1|11|Lane Departure|-79.726141999999982|42.138106000000107 
+2015-09-20 17:57:20,496                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:13.314 
+2015-09-20 17:57:20,496                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:57:13 PST 2015:1:11:Lane Departure:-79.72614199999998:42.13810600000011 
+2015-09-20 17:57:20,497                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:57:14.326|2|12|Normal|-74.039674|41.502051 
+2015-09-20 17:57:20,497                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:14.326|2|12|Normal|-74.039674|41.502051 
+2015-09-20 17:57:20,497                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:14.326 
+2015-09-20 17:57:20,497                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:57:14 PST 2015:2:12:Normal:-74.039674:41.502051 
+2015-09-20 17:57:20,502                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:57:15.334|3|13|Unsafe following distance|-74.190730999999914|41.347409999999932 
+2015-09-20 17:57:20,502                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:15.334|3|13|Unsafe following distance|-74.190730999999914|41.347409999999932 
+2015-09-20 17:57:20,502                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:15.334 
+2015-09-20 17:57:20,502                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:57:15 PST 2015:3:13:Unsafe following distance:-74.19073099999991:41.34740999999993 
+2015-09-20 17:57:20,504                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:57:16.337|4|14|Normal|-73.98099000000002|40.656003000000055 
+2015-09-20 17:57:20,504                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:16.337|4|14|Normal|-73.98099000000002|40.656003000000055 
+2015-09-20 17:57:20,504                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:16.337 
+2015-09-20 17:57:20,504                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:57:16 PST 2015:4:14:Normal:-73.98099000000002:40.656003000000055 
+2015-09-20 17:57:20,513                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:57:17.345|1|11|Normal|-79.725500999999895|42.138498999999911 
+2015-09-20 17:57:20,513                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:17.345|1|11|Normal|-79.725500999999895|42.138498999999911 
+2015-09-20 17:57:20,513                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:17.345 
+2015-09-20 17:57:20,513                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:57:17 PST 2015:1:11:Normal:-79.7255009999999:42.13849899999991 
+2015-09-20 17:57:20,514                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:57:18.355|2|12|Normal|-74.040005|41.502074 
+2015-09-20 17:57:20,514                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:18.355|2|12|Normal|-74.040005|41.502074 
+2015-09-20 17:57:20,514                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:18.355 
+2015-09-20 17:57:20,514                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:57:18 PST 2015:2:12:Normal:-74.040005:41.502074 
+2015-09-20 17:57:20,522                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:57:19.378|3|13|Normal|-74.190800999999965|41.347678999999829 
+2015-09-20 17:57:20,523                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:19.378|3|13|Normal|-74.190800999999965|41.347678999999829 
+2015-09-20 17:57:20,523                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:19.378 
+2015-09-20 17:57:20,523                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:57:19 PST 2015:3:13:Normal:-74.19080099999996:41.34767899999983 
+2015-09-20 17:57:30,288                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:57:20.387|4|14|Normal|-73.978747000000112|40.654698000000053 
+2015-09-20 17:57:30,288                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:20.387|4|14|Normal|-73.978747000000112|40.654698000000053 
+2015-09-20 17:57:30,288                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:20.387 
+2015-09-20 17:57:30,289                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:57:20 PST 2015:4:14:Normal:-73.97874700000011:40.65469800000005 
+2015-09-20 17:57:30,292                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:57:21.392|1|11|Normal|-79.724791999999979|42.138938000000053 
+2015-09-20 17:57:30,292                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:21.392|1|11|Normal|-79.724791999999979|42.138938000000053 
+2015-09-20 17:57:30,292                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:21.392 
+2015-09-20 17:57:30,292                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:57:21 PST 2015:1:11:Normal:-79.72479199999998:42.13893800000005 
+2015-09-20 17:57:30,293                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:57:22.396|2|12|Normal|-74.041643|41.502197 
+2015-09-20 17:57:30,294                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:22.396|2|12|Normal|-74.041643|41.502197 
+2015-09-20 17:57:30,294                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:22.396 
+2015-09-20 17:57:30,294                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:57:22 PST 2015:2:12:Normal:-74.041643:41.502197 
+2015-09-20 17:57:30,294                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:57:23.402|3|13|Overspeed|-74.190853000000075|41.347871999999903 
+2015-09-20 17:57:30,294                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:23.402|3|13|Overspeed|-74.190853000000075|41.347871999999903 
+2015-09-20 17:57:30,294                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:23.402 
+2015-09-20 17:57:30,294                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:57:23 PST 2015:3:13:Overspeed:-74.19085300000008:41.3478719999999 
+2015-09-20 17:57:30,297                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:57:24.409|4|14|Normal|-73.978213000000096|40.653978000000052 
+2015-09-20 17:57:30,297                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:24.409|4|14|Normal|-73.978213000000096|40.653978000000052 
+2015-09-20 17:57:30,297                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:24.409 
+2015-09-20 17:57:30,297                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:57:24 PST 2015:4:14:Normal:-73.9782130000001:40.65397800000005 
+2015-09-20 17:57:30,298                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:57:25.42|1|11|Normal|-79.717795999999908|42.142626999999948 
+2015-09-20 17:57:30,298                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:25.42|1|11|Normal|-79.717795999999908|42.142626999999948 
+2015-09-20 17:57:30,298                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:25.42 
+2015-09-20 17:57:30,299                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:57:25 PST 2015:1:11:Normal:-79.71779599999991:42.14262699999995 
+2015-09-20 17:57:30,300                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:57:26.43|2|12|Normal|-74.04369|41.502357 
+2015-09-20 17:57:30,300                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:26.43|2|12|Normal|-74.04369|41.502357 
+2015-09-20 17:57:30,300                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:26.43 
+2015-09-20 17:57:30,300                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:57:26 PST 2015:2:12:Normal:-74.04369:41.502357 
+2015-09-20 17:57:30,301                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:57:27.441|3|13|Normal|-74.192135000000007|41.349970999999947 
+2015-09-20 17:57:30,301                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:27.441|3|13|Normal|-74.192135000000007|41.349970999999947 
+2015-09-20 17:57:30,301                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:27.441 
+2015-09-20 17:57:30,301                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:57:27 PST 2015:3:13:Normal:-74.19213500000001:41.34997099999995 
+2015-09-20 17:57:30,302                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:57:28.453|4|14|Normal|-73.977069000000029|40.65244000000007 
+2015-09-20 17:57:30,302                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:28.453|4|14|Normal|-73.977069000000029|40.65244000000007 
+2015-09-20 17:57:30,302                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:28.453 
+2015-09-20 17:57:30,302                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:57:28 PST 2015:4:14:Normal:-73.97706900000003:40.65244000000007 
+2015-09-20 17:57:30,303                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:57:29.463|1|11|Normal|-79.717086000000108|42.142828999999892 
+2015-09-20 17:57:30,303                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:29.463|1|11|Normal|-79.717086000000108|42.142828999999892 
+2015-09-20 17:57:30,303                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:29.463 
+2015-09-20 17:57:30,303                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:57:29 PST 2015:1:11:Normal:-79.71708600000011:42.14282899999989 
+2015-09-20 17:57:40,333                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:57:30.474|2|12|Normal|-74.044755|41.502435 
+2015-09-20 17:57:40,333                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:30.474|2|12|Normal|-74.044755|41.502435 
+2015-09-20 17:57:40,333                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:30.474 
+2015-09-20 17:57:40,333                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:57:30 PST 2015:2:12:Normal:-74.044755:41.502435 
+2015-09-20 17:57:40,338                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:57:31.477|3|13|Normal|-74.1931340000001|41.351339999999809 
+2015-09-20 17:57:40,338                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:31.477|3|13|Normal|-74.1931340000001|41.351339999999809 
+2015-09-20 17:57:40,338                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:31.477 
+2015-09-20 17:57:40,339                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:57:31 PST 2015:3:13:Normal:-74.1931340000001:41.35133999999981 
+2015-09-20 17:57:40,339                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:57:32.481|4|14|Normal|-73.976184000000103|40.651088999999956 
+2015-09-20 17:57:40,340                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:32.481|4|14|Normal|-73.976184000000103|40.651088999999956 
+2015-09-20 17:57:40,340                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:32.481 
+2015-09-20 17:57:40,340                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:57:32 PST 2015:4:14:Normal:-73.9761840000001:40.651088999999956 
+2015-09-20 17:57:40,342                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:57:33.49|1|11|Normal|-79.71183700000006|42.143953999999894 
+2015-09-20 17:57:40,342                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:33.49|1|11|Normal|-79.71183700000006|42.143953999999894 
+2015-09-20 17:57:40,342                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:33.49 
+2015-09-20 17:57:40,343                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:57:33 PST 2015:1:11:Normal:-79.71183700000006:42.143953999999894 
+2015-09-20 17:57:40,343                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:57:34.501|2|12|Normal|-74.045696|41.502505 
+2015-09-20 17:57:40,344                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:34.501|2|12|Normal|-74.045696|41.502505 
+2015-09-20 17:57:40,344                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:34.501 
+2015-09-20 17:57:40,344                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:57:34 PST 2015:2:12:Normal:-74.045696:41.502505 
+2015-09-20 17:57:40,345                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:57:35.51|3|13|Normal|-74.193254000000024|41.351516999999909 
+2015-09-20 17:57:40,345                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:35.51|3|13|Normal|-74.193254000000024|41.351516999999909 
+2015-09-20 17:57:40,345                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:35.51 
+2015-09-20 17:57:40,345                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:57:35 PST 2015:3:13:Normal:-74.19325400000002:41.35151699999991 
+2015-09-20 17:57:40,347                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:57:36.517|4|14|Normal|-73.97529899999995|40.649609999999939 
+2015-09-20 17:57:40,347                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:36.517|4|14|Normal|-73.97529899999995|40.649609999999939 
+2015-09-20 17:57:40,347                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:36.517 
+2015-09-20 17:57:40,347                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:57:36 PST 2015:4:14:Normal:-73.97529899999995:40.64960999999994 
+2015-09-20 17:57:40,348                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:57:37.528|1|11|Normal|-79.707274999999981|42.144594999999981 
+2015-09-20 17:57:40,348                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:37.528|1|11|Normal|-79.707274999999981|42.144594999999981 
+2015-09-20 17:57:40,348                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:37.528 
+2015-09-20 17:57:40,348                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:57:37 PST 2015:1:11:Normal:-79.70727499999998:42.14459499999998 
+2015-09-20 17:57:40,349                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:57:38.536|2|12|Normal|-74.04781|41.502681 
+2015-09-20 17:57:40,349                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:38.536|2|12|Normal|-74.04781|41.502681 
+2015-09-20 17:57:40,349                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:38.536 
+2015-09-20 17:57:40,349                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:57:38 PST 2015:2:12:Normal:-74.04781:41.502681 
+2015-09-20 17:57:40,350                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:57:39.546|3|13|Normal|-74.193447000000106|41.351800999999888 
+2015-09-20 17:57:40,350                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:39.546|3|13|Normal|-74.193447000000106|41.351800999999888 
+2015-09-20 17:57:40,350                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:39.546 
+2015-09-20 17:57:40,350                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:57:39 PST 2015:3:13:Normal:-74.1934470000001:41.35180099999989 
+2015-09-20 17:57:50,194                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:57:40.55|4|14|Normal|-73.97489500000006|40.648010999999997 
+2015-09-20 17:57:50,194                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:40.55|4|14|Normal|-73.97489500000006|40.648010999999997 
+2015-09-20 17:57:50,194                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:40.55 
+2015-09-20 17:57:50,194                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:57:40 PST 2015:4:14:Normal:-73.97489500000006:40.648011 
+2015-09-20 17:57:50,207                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:57:41.559|1|11|Normal|-79.704786999999897|42.144755000000032 
+2015-09-20 17:57:50,207                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:41.559|1|11|Normal|-79.704786999999897|42.144755000000032 
+2015-09-20 17:57:50,207                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:41.559 
+2015-09-20 17:57:50,208                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:57:41 PST 2015:1:11:Normal:-79.7047869999999:42.14475500000003 
+2015-09-20 17:57:50,209                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:57:42.563|2|12|Normal|-74.04822|41.502716 
+2015-09-20 17:57:50,209                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:42.563|2|12|Normal|-74.04822|41.502716 
+2015-09-20 17:57:50,209                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:42.563 
+2015-09-20 17:57:50,209                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:57:42 PST 2015:2:12:Normal:-74.04822:41.502716 
+2015-09-20 17:57:50,212                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:57:43.573|3|13|Overspeed|-74.193905000000086|41.352739999999891 
+2015-09-20 17:57:50,212                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:43.573|3|13|Overspeed|-74.193905000000086|41.352739999999891 
+2015-09-20 17:57:50,212                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:43.573 
+2015-09-20 17:57:50,212                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:57:43 PST 2015:3:13:Overspeed:-74.19390500000009:41.35273999999989 
+2015-09-20 17:57:50,215                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:57:44.597|4|14|Normal|-73.974330000000009|40.645420999999942 
+2015-09-20 17:57:50,215                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:44.597|4|14|Normal|-73.974330000000009|40.645420999999942 
+2015-09-20 17:57:50,215                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:44.597 
+2015-09-20 17:57:50,218                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:57:44 PST 2015:4:14:Normal:-73.97433000000001:40.64542099999994 
+2015-09-20 17:57:50,220                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:57:45.601|1|11|Normal|-79.701583000000028|42.144733000000087 
+2015-09-20 17:57:50,221                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:45.601|1|11|Normal|-79.701583000000028|42.144733000000087 
+2015-09-20 17:57:50,221                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:45.601 
+2015-09-20 17:57:50,221                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:57:45 PST 2015:1:11:Normal:-79.70158300000003:42.14473300000009 
+2015-09-20 17:57:50,224                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:57:46.611|2|12|Normal|-74.052783|41.503098 
+2015-09-20 17:57:50,224                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:46.611|2|12|Normal|-74.052783|41.503098 
+2015-09-20 17:57:50,224                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:46.611 
+2015-09-20 17:57:50,225                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:57:46 PST 2015:2:12:Normal:-74.052783:41.503098 
+2015-09-20 17:57:50,226                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:57:47.623|3|13|Normal|-74.193805999999995|41.353311999999804 
+2015-09-20 17:57:50,226                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:47.623|3|13|Normal|-74.193805999999995|41.353311999999804 
+2015-09-20 17:57:50,226                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:47.623 
+2015-09-20 17:57:50,226                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:57:47 PST 2015:3:13:Normal:-74.193806:41.353311999999804 
+2015-09-20 17:57:50,228                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:57:48.641|4|14|Normal|-73.974222999999938|40.644925000000057 
+2015-09-20 17:57:50,228                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:48.641|4|14|Normal|-73.974222999999938|40.644925000000057 
+2015-09-20 17:57:50,228                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:48.641 
+2015-09-20 17:57:50,228                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:57:48 PST 2015:4:14:Normal:-73.97422299999994:40.64492500000006 
+2015-09-20 17:57:50,229                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:57:49.65|1|11|Normal|-79.698912999999948|42.144553000000087 
+2015-09-20 17:57:50,229                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:49.65|1|11|Normal|-79.698912999999948|42.144553000000087 
+2015-09-20 17:57:50,229                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:49.65 
+2015-09-20 17:57:50,230                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:57:49 PST 2015:1:11:Normal:-79.69891299999995:42.14455300000009 
+2015-09-20 17:58:00,582                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:57:50.661|2|12|Normal|-74.054117|41.50321 
+2015-09-20 17:58:00,582                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:50.661|2|12|Normal|-74.054117|41.50321 
+2015-09-20 17:58:00,582                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:50.661 
+2015-09-20 17:58:00,583                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:57:50 PST 2015:2:12:Normal:-74.054117:41.50321 
+2015-09-20 17:58:00,592                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:57:51.665|3|13|Normal|-74.193530999999894|41.354020999999953 
+2015-09-20 17:58:00,592                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:51.665|3|13|Normal|-74.193530999999894|41.354020999999953 
+2015-09-20 17:58:00,593                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:51.665 
+2015-09-20 17:58:00,593                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:57:51 PST 2015:3:13:Normal:-74.1935309999999:41.35402099999995 
+2015-09-20 17:58:00,599                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:57:52.669|4|14|Normal|-73.972917999999936|40.645447999999988 
+2015-09-20 17:58:00,599                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:52.669|4|14|Normal|-73.972917999999936|40.645447999999988 
+2015-09-20 17:58:00,599                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:52.669 
+2015-09-20 17:58:00,599                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:57:52 PST 2015:4:14:Normal:-73.97291799999994:40.64544799999999 
+2015-09-20 17:58:00,602                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:57:53.678|1|11|Lane Departure|-79.686148999999887|42.142702999999983 
+2015-09-20 17:58:00,602                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:53.678|1|11|Lane Departure|-79.686148999999887|42.142702999999983 
+2015-09-20 17:58:00,602                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:53.678 
+2015-09-20 17:58:00,603                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:57:53 PST 2015:1:11:Lane Departure:-79.68614899999989:42.14270299999998 
+2015-09-20 17:58:00,604                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:57:54.691|2|12|Normal|-74.055295|41.503303 
+2015-09-20 17:58:00,605                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:54.691|2|12|Normal|-74.055295|41.503303 
+2015-09-20 17:58:00,605                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:54.691 
+2015-09-20 17:58:00,605                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:57:54 PST 2015:2:12:Normal:-74.055295:41.503303 
+2015-09-20 17:58:00,608                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:57:55.703|3|13|Normal|-74.193211000000019|41.354508999999872 
+2015-09-20 17:58:00,608                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:55.703|3|13|Normal|-74.193211000000019|41.354508999999872 
+2015-09-20 17:58:00,608                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:55.703 
+2015-09-20 17:58:00,613                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:57:55 PST 2015:3:13:Normal:-74.19321100000002:41.35450899999987 
+2015-09-20 17:58:00,615                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:57:56.712|4|14|Unsafe tail distance|-73.971377000000075|40.646068999999898 
+2015-09-20 17:58:00,615                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:56.712|4|14|Unsafe tail distance|-73.971377000000075|40.646068999999898 
+2015-09-20 17:58:00,616                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:56.712 
+2015-09-20 17:58:00,616                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:57:56 PST 2015:4:14:Unsafe tail distance:-73.97137700000007:40.6460689999999 
+2015-09-20 17:58:00,620                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:57:57.727|1|11|Normal|-79.683706999999913|42.142413000000033 
+2015-09-20 17:58:00,620                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:57.727|1|11|Normal|-79.683706999999913|42.142413000000033 
+2015-09-20 17:58:00,620                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:57.727 
+2015-09-20 17:58:00,621                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:57:57 PST 2015:1:11:Normal:-79.68370699999991:42.14241300000003 
+2015-09-20 17:58:00,626                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:57:58.751|2|12|Normal|-74.057863|41.503515 
+2015-09-20 17:58:00,626                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:58.751|2|12|Normal|-74.057863|41.503515 
+2015-09-20 17:58:00,626                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:58.751 
+2015-09-20 17:58:00,626                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:57:58 PST 2015:2:12:Normal:-74.057863:41.503515 
+2015-09-20 17:58:00,628                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:57:59.771|3|13|Normal|-74.193111000000044|41.354661999999834 
+2015-09-20 17:58:00,628                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:59.771|3|13|Normal|-74.193111000000044|41.354661999999834 
+2015-09-20 17:58:00,628                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:57:59.771 
+2015-09-20 17:58:00,628                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:57:59 PST 2015:3:13:Normal:-74.19311100000004:41.354661999999834 
+2015-09-20 17:58:10,265                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:58:00.782|4|14|Normal|-73.970667999999932|40.646355999999969 
+2015-09-20 17:58:10,265                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:00.782|4|14|Normal|-73.970667999999932|40.646355999999969 
+2015-09-20 17:58:10,265                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:00.782 
+2015-09-20 17:58:10,265                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:58:00 PST 2015:4:14:Normal:-73.97066799999993:40.64635599999997 
+2015-09-20 17:58:10,272                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:58:01.786|1|11|Overspeed|-79.680548999999928|42.142200000000003 
+2015-09-20 17:58:10,272                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:01.786|1|11|Overspeed|-79.680548999999928|42.142200000000003 
+2015-09-20 17:58:10,272                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:01.786 
+2015-09-20 17:58:10,272                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:58:01 PST 2015:1:11:Overspeed:-79.68054899999993:42.1422 
+2015-09-20 17:58:10,277                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:58:02.803|2|12|Normal|-74.059201|41.503629 
+2015-09-20 17:58:10,277                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:02.803|2|12|Normal|-74.059201|41.503629 
+2015-09-20 17:58:10,277                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:02.803 
+2015-09-20 17:58:10,280                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:58:02 PST 2015:2:12:Normal:-74.059201:41.503629 
+2015-09-20 17:58:10,282                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:58:03.805|3|13|Normal|-74.192684000000099|41.35632899999981 
+2015-09-20 17:58:10,282                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:03.805|3|13|Normal|-74.192684000000099|41.35632899999981 
+2015-09-20 17:58:10,282                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:03.805 
+2015-09-20 17:58:10,282                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:58:03 PST 2015:3:13:Normal:-74.1926840000001:41.35632899999981 
+2015-09-20 17:58:10,286                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:58:04.816|4|14|Normal|-73.971162999999933|40.648331000000098 
+2015-09-20 17:58:10,286                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:04.816|4|14|Normal|-73.971162999999933|40.648331000000098 
+2015-09-20 17:58:10,286                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:04.816 
+2015-09-20 17:58:10,291                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:58:04 PST 2015:4:14:Normal:-73.97116299999993:40.6483310000001 
+2015-09-20 17:58:10,297                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:58:05.819|1|11|Normal|-79.679740000000038|42.142229999999927 
+2015-09-20 17:58:10,297                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:05.819|1|11|Normal|-79.679740000000038|42.142229999999927 
+2015-09-20 17:58:10,297                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:05.819 
+2015-09-20 17:58:10,298                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:58:05 PST 2015:1:11:Normal:-79.67974000000004:42.14222999999993 
+2015-09-20 17:58:10,298                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:58:06.822|2|12|Normal|-74.06085|41.503766 
+2015-09-20 17:58:10,298                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:06.822|2|12|Normal|-74.06085|41.503766 
+2015-09-20 17:58:10,298                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:06.822 
+2015-09-20 17:58:10,299                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:58:06 PST 2015:2:12:Normal:-74.06085:41.503766 
+2015-09-20 17:58:10,303                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:58:07.826|3|13|Normal|-74.191448000000037|41.357770999999801 
+2015-09-20 17:58:10,303                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:07.826|3|13|Normal|-74.191448000000037|41.357770999999801 
+2015-09-20 17:58:10,303                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:07.826 
+2015-09-20 17:58:10,306                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:58:07 PST 2015:3:13:Normal:-74.19144800000004:41.3577709999998 
+2015-09-20 17:58:10,309                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:58:08.831|4|14|Normal|-73.963381000000027|40.651344999999992 
+2015-09-20 17:58:10,309                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:08.831|4|14|Normal|-73.963381000000027|40.651344999999992 
+2015-09-20 17:58:10,309                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:08.831 
+2015-09-20 17:58:10,310                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:58:08 PST 2015:4:14:Normal:-73.96338100000003:40.65134499999999 
+2015-09-20 17:58:10,311                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:58:09.834|1|11|Normal|-79.677932000000055|42.142409000000043 
+2015-09-20 17:58:10,311                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:09.834|1|11|Normal|-79.677932000000055|42.142409000000043 
+2015-09-20 17:58:10,311                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:09.834 
+2015-09-20 17:58:10,314                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:58:09 PST 2015:1:11:Normal:-79.67793200000006:42.14240900000004 
+2015-09-20 17:58:20,162                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:58:10.838|2|12|Unsafe following distance|-74.062499|41.503903 
+2015-09-20 17:58:20,162                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:10.838|2|12|Unsafe following distance|-74.062499|41.503903 
+2015-09-20 17:58:20,162                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:10.838 
+2015-09-20 17:58:20,162                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:58:10 PST 2015:2:12:Unsafe following distance:-74.062499:41.503903 
+2015-09-20 17:58:20,169                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:58:11.848|3|13|Normal|-74.191233999999895|41.358339999999849 
+2015-09-20 17:58:20,169                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:11.848|3|13|Normal|-74.191233999999895|41.358339999999849 
+2015-09-20 17:58:20,169                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:11.848 
+2015-09-20 17:58:20,170                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:58:11 PST 2015:3:13:Normal:-74.1912339999999:41.35833999999985 
+2015-09-20 17:58:20,171                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:58:12.85|4|14|Normal|-73.961344000000054|40.652131000000054 
+2015-09-20 17:58:20,171                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:12.85|4|14|Normal|-73.961344000000054|40.652131000000054 
+2015-09-20 17:58:20,172                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:12.85 
+2015-09-20 17:58:20,172                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:58:12 PST 2015:4:14:Normal:-73.96134400000005:40.652131000000054 
+2015-09-20 17:58:20,172                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:58:13.858|1|11|Normal|-79.674987000000101|42.142910000000029 
+2015-09-20 17:58:20,172                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:13.858|1|11|Normal|-79.674987000000101|42.142910000000029 
+2015-09-20 17:58:20,172                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:13.858 
+2015-09-20 17:58:20,173                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:58:13 PST 2015:1:11:Normal:-79.6749870000001:42.14291000000003 
+2015-09-20 17:58:20,174                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:58:14.865|2|12|Normal|-74.064436|41.504048 
+2015-09-20 17:58:20,174                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:14.865|2|12|Normal|-74.064436|41.504048 
+2015-09-20 17:58:20,174                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:14.865 
+2015-09-20 17:58:20,175                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:58:14 PST 2015:2:12:Normal:-74.064436:41.504048 
+2015-09-20 17:58:20,175                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:58:15.873|3|13|Normal|-74.191233999999895|41.359578999999805 
+2015-09-20 17:58:20,175                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:15.873|3|13|Normal|-74.191233999999895|41.359578999999805 
+2015-09-20 17:58:20,175                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:15.873 
+2015-09-20 17:58:20,176                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:58:15 PST 2015:3:13:Normal:-74.1912339999999:41.359578999999805 
+2015-09-20 17:58:20,177                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:58:16.882|4|14|Normal|-73.95972699999993|40.65271400000006 
+2015-09-20 17:58:20,177                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:16.882|4|14|Normal|-73.95972699999993|40.65271400000006 
+2015-09-20 17:58:20,177                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:16.882 
+2015-09-20 17:58:20,177                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:58:16 PST 2015:4:14:Normal:-73.95972699999993:40.65271400000006 
+2015-09-20 17:58:20,178                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:58:17.925|1|11|Normal|-79.674025999999913|42.143168999999943 
+2015-09-20 17:58:20,178                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:17.925|1|11|Normal|-79.674025999999913|42.143168999999943 
+2015-09-20 17:58:20,178                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:17.925 
+2015-09-20 17:58:20,178                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:58:17 PST 2015:1:11:Normal:-79.67402599999991:42.14316899999994 
+2015-09-20 17:58:20,178                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:58:18.934|2|12|Normal|-74.065026|41.504097 
+2015-09-20 17:58:20,178                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:18.934|2|12|Normal|-74.065026|41.504097 
+2015-09-20 17:58:20,178                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:18.934 
+2015-09-20 17:58:20,180                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:58:18 PST 2015:2:12:Normal:-74.065026:41.504097 
+2015-09-20 17:58:20,181                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:58:19.955|3|13|Lane Departure|-74.192203000000063|41.362279999999913 
+2015-09-20 17:58:20,181                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:19.955|3|13|Lane Departure|-74.192203000000063|41.362279999999913 
+2015-09-20 17:58:20,181                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:19.955 
+2015-09-20 17:58:20,182                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:58:19 PST 2015:3:13:Lane Departure:-74.19220300000006:41.36227999999991 
+2015-09-20 17:58:30,163                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:58:20.959|4|14|Normal|-73.959016999999903|40.652931999999964 
+2015-09-20 17:58:30,163                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:20.959|4|14|Normal|-73.959016999999903|40.652931999999964 
+2015-09-20 17:58:30,164                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:20.959 
+2015-09-20 17:58:30,164                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:58:20 PST 2015:4:14:Normal:-73.9590169999999:40.652931999999964 
+2015-09-20 17:58:30,165                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:58:21.983|1|11|Normal|-79.673041999999896|42.14340100000004 
+2015-09-20 17:58:30,165                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:21.983|1|11|Normal|-79.673041999999896|42.14340100000004 
+2015-09-20 17:58:30,165                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:21.983 
+2015-09-20 17:58:30,166                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:58:21 PST 2015:1:11:Normal:-79.6730419999999:42.14340100000004 
+2015-09-20 17:58:30,167                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:58:23.006|2|12|Lane Departure|-74.066028|41.504188 
+2015-09-20 17:58:30,167                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:23.006|2|12|Lane Departure|-74.066028|41.504188 
+2015-09-20 17:58:30,167                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:23.006 
+2015-09-20 17:58:30,167                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:58:23 PST 2015:2:12:Lane Departure:-74.066028:41.504188 
+2015-09-20 17:58:30,168                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:58:24.009|3|13|Unsafe following distance|-74.192782000000079|41.364907999999865 
+2015-09-20 17:58:30,168                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:24.009|3|13|Unsafe following distance|-74.192782000000079|41.364907999999865 
+2015-09-20 17:58:30,168                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:24.009 
+2015-09-20 17:58:30,168                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:58:24 PST 2015:3:13:Unsafe following distance:-74.19278200000008:41.364907999999865 
+2015-09-20 17:58:30,169                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:58:25.013|4|14|Normal|-73.957284999999956|40.65304500000002 
+2015-09-20 17:58:30,169                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:25.013|4|14|Normal|-73.957284999999956|40.65304500000002 
+2015-09-20 17:58:30,169                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:25.013 
+2015-09-20 17:58:30,170                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:58:25 PST 2015:4:14:Normal:-73.95728499999996:40.65304500000002 
+2015-09-20 17:58:30,171                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:58:26.02|1|11|Normal|-79.663420999999971|42.146349999999984 
+2015-09-20 17:58:30,171                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:26.02|1|11|Normal|-79.663420999999971|42.146349999999984 
+2015-09-20 17:58:30,171                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:26.02 
+2015-09-20 17:58:30,171                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:58:26 PST 2015:1:11:Normal:-79.66342099999997:42.146349999999984 
+2015-09-20 17:58:30,172                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:58:27.026|2|12|Normal|-74.068304|41.504443 
+2015-09-20 17:58:30,172                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:27.026|2|12|Normal|-74.068304|41.504443 
+2015-09-20 17:58:30,172                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:27.026 
+2015-09-20 17:58:30,173                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:58:27 PST 2015:2:12:Normal:-74.068304:41.504443 
+2015-09-20 17:58:30,174                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:58:28.033|3|13|Unsafe tail distance|-74.192692000000079|41.365430999999795 
+2015-09-20 17:58:30,174                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:28.033|3|13|Unsafe tail distance|-74.192692000000079|41.365430999999795 
+2015-09-20 17:58:30,174                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:28.033 
+2015-09-20 17:58:30,174                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:58:28 PST 2015:3:13:Unsafe tail distance:-74.19269200000008:41.365430999999795 
+2015-09-20 17:58:30,176                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:58:29.036|4|14|Normal|-73.956652000000076|40.652694999999994 
+2015-09-20 17:58:30,176                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:29.036|4|14|Normal|-73.956652000000076|40.652694999999994 
+2015-09-20 17:58:30,176                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:29.036 
+2015-09-20 17:58:30,176                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:58:29 PST 2015:4:14:Normal:-73.95665200000008:40.652694999999994 
+2015-09-20 17:58:40,197                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:58:30.042|1|11|Overspeed|-79.661276999999927|42.14688000000001 
+2015-09-20 17:58:40,197                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:30.042|1|11|Overspeed|-79.661276999999927|42.14688000000001 
+2015-09-20 17:58:40,197                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:30.042 
+2015-09-20 17:58:40,197                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:58:30 PST 2015:1:11:Overspeed:-79.66127699999993:42.14688000000001 
+2015-09-20 17:58:40,199                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:58:31.046|2|12|Normal|-74.068548|41.504475 
+2015-09-20 17:58:40,199                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:31.046|2|12|Normal|-74.068548|41.504475 
+2015-09-20 17:58:40,199                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:31.046 
+2015-09-20 17:58:40,201                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:58:31 PST 2015:2:12:Normal:-74.068548:41.504475 
+2015-09-20 17:58:40,202                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:58:32.048|3|13|Normal|-74.192450000000008|41.365688999999819 
+2015-09-20 17:58:40,202                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:32.048|3|13|Normal|-74.192450000000008|41.365688999999819 
+2015-09-20 17:58:40,202                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:32.048 
+2015-09-20 17:58:40,202                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:58:32 PST 2015:3:13:Normal:-74.19245000000001:41.36568899999982 
+2015-09-20 17:58:40,203                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:58:33.058|4|14|Normal|-73.955911999999898|40.652276000000029 
+2015-09-20 17:58:40,203                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:33.058|4|14|Normal|-73.955911999999898|40.652276000000029 
+2015-09-20 17:58:40,203                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:33.058 
+2015-09-20 17:58:40,203                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:58:33 PST 2015:4:14:Normal:-73.9559119999999:40.65227600000003 
+2015-09-20 17:58:40,205                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:58:34.078|1|11|Normal|-79.658599000000095|42.147341999999981 
+2015-09-20 17:58:40,205                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:34.078|1|11|Normal|-79.658599000000095|42.147341999999981 
+2015-09-20 17:58:40,205                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:34.078 
+2015-09-20 17:58:40,205                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:58:34 PST 2015:1:11:Normal:-79.6585990000001:42.14734199999998 
+2015-09-20 17:58:40,206                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:58:35.086|2|12|Overspeed|-74.068905|41.504515 
+2015-09-20 17:58:40,206                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:35.086|2|12|Overspeed|-74.068905|41.504515 
+2015-09-20 17:58:40,206                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:35.086 
+2015-09-20 17:58:40,206                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:58:35 PST 2015:2:12:Overspeed:-74.068905:41.504515 
+2015-09-20 17:58:40,207                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:58:36.088|3|13|Normal|-74.191913000000113|41.366258999999737 
+2015-09-20 17:58:40,207                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:36.088|3|13|Normal|-74.191913000000113|41.366258999999737 
+2015-09-20 17:58:40,207                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:36.088 
+2015-09-20 17:58:40,208                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:58:36 PST 2015:3:13:Normal:-74.19191300000011:41.36625899999974 
+2015-09-20 17:58:40,209                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:58:37.099|4|14|Normal|-73.952616999999918|40.652450999999928 
+2015-09-20 17:58:40,209                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:37.099|4|14|Normal|-73.952616999999918|40.652450999999928 
+2015-09-20 17:58:40,209                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:37.099 
+2015-09-20 17:58:40,209                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:58:37 PST 2015:4:14:Normal:-73.95261699999992:40.65245099999993 
+2015-09-20 17:58:40,211                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:58:38.102|1|11|Normal|-79.655958999999939|42.147449000000051 
+2015-09-20 17:58:40,211                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:38.102|1|11|Normal|-79.655958999999939|42.147449000000051 
+2015-09-20 17:58:40,211                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:38.102 
+2015-09-20 17:58:40,211                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:58:38 PST 2015:1:11:Normal:-79.65595899999994:42.14744900000005 
+2015-09-20 17:58:40,212                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:58:39.105|2|12|Normal|-74.069267|41.504565 
+2015-09-20 17:58:40,212                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:39.105|2|12|Normal|-74.069267|41.504565 
+2015-09-20 17:58:40,212                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:39.105 
+2015-09-20 17:58:40,212                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:58:39 PST 2015:2:12:Normal:-74.069267:41.504565 
+2015-09-20 17:58:50,168                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:58:40.108|3|13|Normal|-74.190937000000076|41.366880999999758 
+2015-09-20 17:58:50,168                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:40.108|3|13|Normal|-74.190937000000076|41.366880999999758 
+2015-09-20 17:58:50,168                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:40.108 
+2015-09-20 17:58:50,169                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:58:40 PST 2015:3:13:Normal:-74.19093700000008:41.36688099999976 
+2015-09-20 17:58:50,171                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:58:41.113|4|14|Normal|-73.949716999999964|40.652630999999928 
+2015-09-20 17:58:50,171                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:41.113|4|14|Normal|-73.949716999999964|40.652630999999928 
+2015-09-20 17:58:50,171                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:41.113 
+2015-09-20 17:58:50,173                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:58:41 PST 2015:4:14:Normal:-73.94971699999996:40.65263099999993 
+2015-09-20 17:58:50,175                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:58:42.119|1|11|Normal|-79.65389899999991|42.147425999999996 
+2015-09-20 17:58:50,175                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:42.119|1|11|Normal|-79.65389899999991|42.147425999999996 
+2015-09-20 17:58:50,175                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:42.119 
+2015-09-20 17:58:50,175                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:58:42 PST 2015:1:11:Normal:-79.65389899999991:42.147425999999996 
+2015-09-20 17:58:50,176                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:58:43.138|2|12|Normal|-74.069696|41.504616 
+2015-09-20 17:58:50,176                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:43.138|2|12|Normal|-74.069696|41.504616 
+2015-09-20 17:58:50,176                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:43.138 
+2015-09-20 17:58:50,178                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:58:43 PST 2015:2:12:Normal:-74.069696:41.504616 
+2015-09-20 17:58:50,178                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:58:44.146|3|13|Normal|-74.18966300000011|41.367608999999767 
+2015-09-20 17:58:50,178                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:44.146|3|13|Normal|-74.18966300000011|41.367608999999767 
+2015-09-20 17:58:50,178                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:44.146 
+2015-09-20 17:58:50,179                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:58:44 PST 2015:3:13:Normal:-74.18966300000011:41.36760899999977 
+2015-09-20 17:58:50,181                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:58:45.166|4|14|Normal|-73.940012000000024|40.653233 
+2015-09-20 17:58:50,181                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:45.166|4|14|Normal|-73.940012000000024|40.653233 
+2015-09-20 17:58:50,181                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:45.166 
+2015-09-20 17:58:50,181                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:58:45 PST 2015:4:14:Normal:-73.94001200000002:40.653233 
+2015-09-20 17:58:50,182                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:58:46.171|1|11|Normal|-79.644363000000112|42.147005999999919 
+2015-09-20 17:58:50,182                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:46.171|1|11|Normal|-79.644363000000112|42.147005999999919 
+2015-09-20 17:58:50,182                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:46.171 
+2015-09-20 17:58:50,182                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:58:46 PST 2015:1:11:Normal:-79.64436300000011:42.14700599999992 
+2015-09-20 17:58:50,182                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:58:47.181|2|12|Normal|-74.070249|41.504704 
+2015-09-20 17:58:50,183                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:47.181|2|12|Normal|-74.070249|41.504704 
+2015-09-20 17:58:50,183                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:47.181 
+2015-09-20 17:58:50,183                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:58:47 PST 2015:2:12:Normal:-74.070249:41.504704 
+2015-09-20 17:58:50,184                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:58:48.191|3|13|Normal|-74.188846000000012|41.368070999999944 
+2015-09-20 17:58:50,184                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:48.191|3|13|Normal|-74.188846000000012|41.368070999999944 
+2015-09-20 17:58:50,184                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:48.191 
+2015-09-20 17:58:50,184                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:58:48 PST 2015:3:13:Normal:-74.18884600000001:41.368070999999944 
+2015-09-20 17:58:50,185                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:58:49.2|4|14|Normal|-73.930550999999923|40.653818 
+2015-09-20 17:58:50,185                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:49.2|4|14|Normal|-73.930550999999923|40.653818 
+2015-09-20 17:58:50,185                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:49.2 
+2015-09-20 17:58:50,185                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:58:49 PST 2015:4:14:Normal:-73.93055099999992:40.653818 
+2015-09-20 17:59:00,247                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:58:50.211|1|11|Normal|-79.617614000000003|42.146044999999958 
+2015-09-20 17:59:00,247                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:50.211|1|11|Normal|-79.617614000000003|42.146044999999958 
+2015-09-20 17:59:00,247                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:50.211 
+2015-09-20 17:59:00,248                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:58:50 PST 2015:1:11:Normal:-79.617614:42.14604499999996 
+2015-09-20 17:59:00,255                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:58:51.214|2|12|Normal|-74.07088|41.504821 
+2015-09-20 17:59:00,255                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:51.214|2|12|Normal|-74.07088|41.504821 
+2015-09-20 17:59:00,255                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:51.214 
+2015-09-20 17:59:00,255                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:58:51 PST 2015:2:12:Normal:-74.07088:41.504821 
+2015-09-20 17:59:00,256                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:58:52.223|3|13|Normal|-74.187908000000107|41.368600999999749 
+2015-09-20 17:59:00,256                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:52.223|3|13|Normal|-74.187908000000107|41.368600999999749 
+2015-09-20 17:59:00,256                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:52.223 
+2015-09-20 17:59:00,257                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:58:52 PST 2015:3:13:Normal:-74.1879080000001:41.36860099999975 
+2015-09-20 17:59:00,267                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:58:53.232|4|14|Normal|-73.924937|40.654160000000047 
+2015-09-20 17:59:00,267                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:53.232|4|14|Normal|-73.924937|40.654160000000047 
+2015-09-20 17:59:00,267                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:53.232 
+2015-09-20 17:59:00,270                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:58:53 PST 2015:4:14:Normal:-73.924937:40.65416000000005 
+2015-09-20 17:59:00,275                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:58:54.242|1|11|Normal|-79.609312999999929|42.145782000000054 
+2015-09-20 17:59:00,275                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:54.242|1|11|Normal|-79.609312999999929|42.145782000000054 
+2015-09-20 17:59:00,275                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:54.242 
+2015-09-20 17:59:00,275                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:58:54 PST 2015:1:11:Normal:-79.60931299999993:42.145782000000054 
+2015-09-20 17:59:00,282                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:58:55.25|2|12|Normal|-74.073199|41.505368 
+2015-09-20 17:59:00,282                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:55.25|2|12|Normal|-74.073199|41.505368 
+2015-09-20 17:59:00,282                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:55.25 
+2015-09-20 17:59:00,283                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:58:55 PST 2015:2:12:Normal:-74.073199:41.505368 
+2015-09-20 17:59:00,290                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:58:56.264|3|13|Normal|-74.187298000000055|41.36900899999987 
+2015-09-20 17:59:00,290                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:56.264|3|13|Normal|-74.187298000000055|41.36900899999987 
+2015-09-20 17:59:00,290                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:56.264 
+2015-09-20 17:59:00,291                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:58:56 PST 2015:3:13:Normal:-74.18729800000006:41.36900899999987 
+2015-09-20 17:59:00,292                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:58:57.273|4|14|Normal|-73.922203999999965|40.654328000000078 
+2015-09-20 17:59:00,292                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:57.273|4|14|Normal|-73.922203999999965|40.654328000000078 
+2015-09-20 17:59:00,292                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:57.273 
+2015-09-20 17:59:00,297                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:58:57 PST 2015:4:14:Normal:-73.92220399999997:40.65432800000008 
+2015-09-20 17:59:00,299                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:58:58.3|1|11|Normal|-79.604591000000028|42.146572000000106 
+2015-09-20 17:59:00,299                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:58.3|1|11|Normal|-79.604591000000028|42.146572000000106 
+2015-09-20 17:59:00,299                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:58.3 
+2015-09-20 17:59:00,304                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:58:58 PST 2015:1:11:Normal:-79.60459100000003:42.146572000000106 
+2015-09-20 17:59:00,307                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:58:59.31|2|12|Overspeed|-74.073976|41.505534 
+2015-09-20 17:59:00,307                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:59.31|2|12|Overspeed|-74.073976|41.505534 
+2015-09-20 17:59:00,307                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:58:59.31 
+2015-09-20 17:59:00,307                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:58:59 PST 2015:2:12:Overspeed:-74.073976:41.505534 
+2015-09-20 17:59:10,283                 INFO   [MessageToTruckEventMapper] Message Recieved from Kafka: 2015-09-20 17:59:00.32|3|13|Normal|-74.185474000000113|41.3700809999999 
+2015-09-20 17:59:10,283                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:59:00.32|3|13|Normal|-74.185474000000113|41.3700809999999 
+2015-09-20 17:59:10,283                 INFO   [MessageToTruckEventMapper] 2015-09-20 17:59:00.32 
+2015-09-20 17:59:10,284                 INFO   [MessageToTruckEventMapper] Message proceesed: Tue Jan 20 17:59:00 PST 2015:3:13:Normal:-74.18547400000011:41.3700809999999 
