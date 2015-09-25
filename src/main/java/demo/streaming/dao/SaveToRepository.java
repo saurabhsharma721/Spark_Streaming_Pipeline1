@@ -1,6 +1,8 @@
 package demo.streaming.dao;
 
 
+import java.net.UnknownHostException;
+
 import org.apache.hadoop.conf.Configuration;
 import org.apache.spark.api.java.JavaPairRDD;
 import org.apache.spark.api.java.JavaRDD;
@@ -19,17 +21,18 @@ public class SaveToRepository {
 	
 	private static Configuration outputConfig;
 	
-	public static Configuration getOutputConfiguration(){
+	public static Configuration getOutputConfiguration() throws UnknownHostException{
 		if(null==outputConfig){
 			outputConfig = new Configuration();
+			
 			outputConfig.set("mongo.output.uri",
-	                 "mongodb://localhost:27017/truckEventsDemo.truckEvents");
+	                 "mongodb://localhost:27017/truckEventsDemo.truckEvents?maxPoolSize=10");
 		}
 		return outputConfig;
 		
 	}
 	
-	public static void saveToRepository(JavaRDD<TruckEvents> truckEvents){
+	public static void saveToRepository(JavaRDD<TruckEvents> truckEvents) throws UnknownHostException{
 		Configuration outputConfig = getOutputConfiguration();
 		JavaPairRDD<Object,BSONObject> jTruckBson = truckEvents.mapToPair(
 				new PairFunction<TruckEvents, Object, BSONObject>() {
@@ -53,6 +56,8 @@ public class SaveToRepository {
 				}
 				);
 		
+		
+		
 		//Saving data to MongoDB
 		jTruckBson.saveAsNewAPIHadoopFile(
 			    "file:///this-is-completely-unused",
@@ -62,5 +67,6 @@ public class SaveToRepository {
 			    outputConfig
 			);
 	}
+	
 	
 }
